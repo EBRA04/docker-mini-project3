@@ -1,0 +1,10 @@
+node_modules/
+**/electron.exe
+**/electron/
+*.asar
+dist/
+out/
+release/
+.vscode/
+.DS_Store
+Thumbs.db
